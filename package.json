@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Matheusfelipea/Aula04SDM2103/issues"
   },
-  "homepage": "https://github.com/Matheusfelipea/Aula04SDM2103#readme"
+  "homepage": "https://github.com/Matheusfelipea/Aula04SDM2103#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
